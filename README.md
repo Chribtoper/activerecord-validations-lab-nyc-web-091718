@@ -1,5 +1,10 @@
 # ActiveRecord Validations Lab
 
+Generating controllers and erb files
+rails g controller authors new edit show --no-test-framework
+rails g controller posts new edit show --no-test-framework
+
+
 # Basic Validations
 
 Add validations to these models such that...
